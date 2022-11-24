@@ -24,6 +24,15 @@ header{
     text-align: center;
     margin-top: 40px;
 }
+#espacio{
+    background: #f1f1f1;
+}
+#testimonial2{
+    background: #CCCCCC;
+    padding: 40px 0 40px 0;
+    text-align: center;
+    margin-top: 40px;
+}
 #bannerEnd{
     background: #CCCCCC;
     padding: 10px 0 10px 0;
