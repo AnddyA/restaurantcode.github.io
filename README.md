@@ -3,4 +3,4 @@ Andy Apolo
 
 Santiago Apolo
 
-https://github.com/NotAnddy/restaurantcode.github.io.git
+https://notanddy.github.io/restaurantcode.github.io/
